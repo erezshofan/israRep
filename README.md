@@ -14,20 +14,20 @@ git clone https://github.com/erezshofan/israRep.git
 2\. Launch the project:
 
 ```bash
-go to \israRep\isracardGitRep and open isracardGitRep.sln
+Go to \israRep\isracardGitRep and open isracardGitRep.sln
 ```
 
-3\. restore packages :
+3\. Restore packages :
 
 ```
-go to dependecies->npm folder in the project.
+Go to dependecies->npm folder in the project.
 In the properties menu select "restore packages"
 ```
 
-4\. execute the app :
+4\. Execute the app :
 
 ```
-Build and start the project to see the live app
+Clean and rebuild the solution and start the project to see the live app
 ```
 
 ## What’s in the repo
