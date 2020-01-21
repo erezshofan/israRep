@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "isracardGitRep", "isracardGitRep\isracardGitRep.csproj", "{09624EC1-DEEE-4EFD-A99C-92B165B696A6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{3C3D9364-D4EE-4AB4-BCD4-8068C5EC9EFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsraCommon", "IsraCommon\IsraCommon.csproj", "{2C7E51BD-44D9-4E32-8A8E-44BD2FCCCDD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09624EC1-DEEE-4EFD-A99C-92B165B696A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09624EC1-DEEE-4EFD-A99C-92B165B696A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09624EC1-DEEE-4EFD-A99C-92B165B696A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09624EC1-DEEE-4EFD-A99C-92B165B696A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C7E51BD-44D9-4E32-8A8E-44BD2FCCCDD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C7E51BD-44D9-4E32-8A8E-44BD2FCCCDD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C7E51BD-44D9-4E32-8A8E-44BD2FCCCDD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C7E51BD-44D9-4E32-8A8E-44BD2FCCCDD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2C7E51BD-44D9-4E32-8A8E-44BD2FCCCDD3} = {3C3D9364-D4EE-4AB4-BCD4-8068C5EC9EFD}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEBBF106-7489-43BF-8334-46CF32710B46}
+	EndGlobalSection
+EndGlobal

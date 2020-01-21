@@ -1,0 +1,21 @@
+
+.searchPannel {
+    border-radius: 10px;
+    border: 1px solid #d3d3d3;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-bottom: 20px;
+}
+
+
+.avatar {
+    width: 75px;
+}
+
+.rowItem {
+    border-bottom: 1px solid #d3d3d3;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
