@@ -37,21 +37,21 @@ This repo includes the source code of _israRep_. The app has the following struc
 ```
 
 isracardGitRep
-	IsraCommon							// Common project files like Entities	
-		Entities 						// Entities of the project , server side
-	isracardGitRep						// project files
-		ClientApp						// client application
-			app							// client app
-				Entities				// entities client side
-				Services				// services from client to the controllers server
-				components  			// ** Components that get rendered into the page (HTML, CSS and TS files) **
+	IsraCommon		// Common project files like Entities	
+		Entities 	// Entities of the project , server side
+	isracardGitRep	// project files
+		ClientApp	// client application
+			app		// client app
+				Entities	// entities client side
+				Services	// services from client to the controllers server
+				components  // ** Components that get rendered into the page (HTML, CSS and TS files) **
 				app.shared.module.ts	// components definitions
 		Controllers						// server side MVC controllers
 		Views
 			Shared
-				_Layout.cshtml			// main html header-body page
-		webCommon						// common server web files
-			SessionExtensions.cs		// extention to manage sessions
+				_Layout.cshtml		// main html header-body page
+		webCommon					// common server web files
+			SessionExtensions.cs	// extention to manage sessions
 			
 .gitignore
 README.md
